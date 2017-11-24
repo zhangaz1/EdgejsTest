@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+/EdgejsTest/bin/
+/EdgejsTest/obj/Debug/
+/packages/
+/.vs/
