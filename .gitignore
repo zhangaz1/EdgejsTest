@@ -32,6 +32,6 @@
 *.app
 
 /EdgejsTest/bin/
-/EdgejsTest/obj/Debug/
+/EdgejsTest/obj/
 /packages/
 /.vs/
